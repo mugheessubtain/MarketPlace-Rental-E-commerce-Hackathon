@@ -1,3 +1,4 @@
+"use client"
 import { Button } from "@/components/ui/button";
 import { CarsListComb } from "@/components/major/Carist";
 import Filters from "@/components/major/Filters";
