@@ -1,6 +1,8 @@
 import Image from "next/image"
 import { FilledStarIcon, StarIcon } from "../ui/icons"
 import { Button } from "../ui/button"
+import profile from "@/public/Profile.png";
+
 
 
 interface Review {
@@ -23,7 +25,7 @@ const reviews: Review[] = [
     date: "15 Jan 2024",
     rating: 5,
     content: "We are very happy with this service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite. Wishing you the best!",
-    image: "/Profile.png"
+    image: "/profile.png"
   }
 ]
 
