@@ -27,7 +27,7 @@ export default function Page() {
   return (
     <>
       <div>
-        <Hero Cars={Cars} /> Pass the fetched cars as props
+        <Hero Cars={cars} /> Pass the fetched cars as props
       </div>
     </>
   );
