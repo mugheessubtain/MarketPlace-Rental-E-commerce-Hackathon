@@ -1,7 +1,7 @@
 module.exports = {
   images: {
     domains: [
-      "car-rental-website-five.vercel.app",
+      "https://market-place-rental-e-commerce-hackathon-sjxf.vercel.app/",
       "cdn.sanity.io"
     ],
   },
