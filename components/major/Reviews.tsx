@@ -18,7 +18,7 @@ const reviews: Review[] = [
   {
     id: 1,
     name: "Muhammad Mughees Subtain",
-    position: "CEO",
+    position: "CEO" ,
     company: "MS Tech",
     date: "15 Jan 2024",
     rating: 5,
