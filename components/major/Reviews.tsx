@@ -17,13 +17,13 @@ interface Review {
 const reviews: Review[] = [
   {
     id: 1,
-    name: "Muhammad Hammad ur Rehman",
+    name: "Muhammad Mughees Subtain",
     position: "CEO",
-    company: "MRC Tech",
-    date: "15 September 2024",
+    company: "MS Tech",
+    date: "15 Jan 2024",
     rating: 5,
     content: "We are very happy with this service from the MORENT App. Morent has a low price and also a large variety of cars with good and comfortable facilities. In addition, the service provided by the officers is also very friendly and very polite. Wishing you the best!",
-    image: "/profile.jpg"
+    image: "/profile.png"
   },
   {
     id: 2,
